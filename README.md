@@ -41,8 +41,7 @@ Follow these steps to get the backend API up and running on your local machine.
 
 ### 1. Clone the repository
 ```
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/KKLearn-1/task_app.git
 ```
 ### 2. Configure the database
 
