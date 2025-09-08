@@ -2,7 +2,7 @@
 
 This project is a robust backend API for a task-tracking application, developed using Java and the Spring Boot framework. The API handles all core functionalities, including task creation, management, and data persistence with a PostgreSQL database.
 
-This repository focuses exclusively on the backend. The corresponding React frontend is available separately.
+This repository focuses exclusively on the backend.
 
 ## Features
 
